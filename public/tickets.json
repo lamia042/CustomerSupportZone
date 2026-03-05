@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1001,
+    "title": "Login page not loading",
+    "description": "User unable to access login page after clicking the login button.",
+    "customer": "Rahim Uddin",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 1002,
+    "title": "Password reset email not received",
+    "description": "Customer requested password reset but did not receive any email.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-02"
+  },
+  {
+    "id": 1003,
+    "title": "Error 500 on dashboard",
+    "description": "Internal server error appears when accessing dashboard.",
+    "customer": "Tanvir Hasan",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-03"
+  },
+  {
+    "id": 1004,
+    "title": "Profile update not saving",
+    "description": "Changes made to profile information are not being saved.",
+    "customer": "Farhana Akter",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-02-28"
+  },
+  {
+    "id": 1005,
+    "title": "Payment gateway timeout",
+    "description": "Transaction fails due to payment gateway timeout error.",
+    "customer": "Sabbir Hossain",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 1006,
+    "title": "Mobile view layout broken",
+    "description": "UI components overlapping on smaller screen devices.",
+    "customer": "Mim Khatun",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1007,
+    "title": "Search functionality slow",
+    "description": "Search results take too long to display.",
+    "customer": "Arif Islam",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-02-27"
+  },
+  {
+    "id": 1008,
+    "title": "Account suspended without notice",
+    "description": "Customer claims account was suspended without prior notification.",
+    "customer": "Shila Ahmed",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-02"
+  },
+  {
+    "id": 1009,
+    "title": "Notification settings not working",
+    "description": "User cannot enable or disable email notifications.",
+    "customer": "Rafiq Khan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-02-25"
+  },
+  {
+    "id": 1010,
+    "title": "File upload failed",
+    "description": "System shows error when uploading PDF files.",
+    "customer": "Lamia Aktar",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-03"
+  },
+  {
+    "id": 1011,
+    "title": "Incorrect invoice generated",
+    "description": "Generated invoice shows incorrect total amount.",
+    "customer": "Mahmudul Hasan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 1012,
+    "title": "Dark mode toggle not working",
+    "description": "Clicking dark mode toggle does not change theme.",
+    "customer": "Sadia Noor",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "id": 1013,
+    "title": "Session expires too quickly",
+    "description": "User session automatically logs out within 5 minutes.",
+    "customer": "Imran Ali",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1014,
+    "title": "Data export not downloading",
+    "description": "CSV export option does not trigger file download.",
+    "customer": "Tanjila Rahman",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-03"
+  },
+  {
+    "id": 1015,
+    "title": "Broken link in footer",
+    "description": "Contact us link in footer redirects to 404 page.",
+    "customer": "Shakib Ahmed",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-02-24"
+  }
+]
