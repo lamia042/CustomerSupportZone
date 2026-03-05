@@ -7,20 +7,17 @@ const TaskStatus = ({ inProgress = [], handleComplete }) => {
         inProgress.map((ticket) => (
           <div
             key={ticket.id}
-            className="bg-white p-4 rounded-lg shadow-md flex justify-between items-center mb-3"
+            className="bg-white p-4 rounded-lg shadow-md mb-3"
           >
             <div>
               <h4 className="font-bold text-gray-700">
                 {ticket.title}
               </h4>
-              <p className="text-sm text-gray-400">
-                #{ticket.id}
-              </p>
             </div>
 
             <button
               onClick={() => handleComplete(ticket)}
-              className="bg-green-500 hover:bg-green-600 text-white py-1 px-4 rounded transition"
+              className="w-full bg-green-500 hover:bg-green-600 text-white py-1 px-4 rounded transition"
             >
               Complete
             </button>
